@@ -1,0 +1,27 @@
+﻿/*  Authors:    Brian Lloyd, Trevor Hann
+ *  Date:       Winter 2015
+ *  Project:    W5 Team Project
+ *  Desc:       Create a website that allows students to log in and display their information
+ */
+body {
+    width: 340px;
+}
+label {
+    float: none;
+    color:white;
+}
+.address {
+    margin-left: 15px;
+    color:#66CCFF;
+}
+.results {
+    color: #66CCFF;
+    margin-left:5px;
+}
+.banner {
+    width: 340px;
+}
+.Name {
+    width: 100px;
+    float:left;
+}
